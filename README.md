@@ -1,2 +1,9 @@
-# simple-contact-book-cli-92
-A simple contact book project
+# Contact Book
+
+A simple contact book project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
